@@ -1,8 +1,10 @@
 //sjdncjkzsdnfkfjvdzfgv
+//Patata
+
 ![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
 
 ### Objetivo del juego/aplicación
-El objetivo del juego/aplicación es ...
+Crear un juego de cartas con el que se puedan aprender las estructuras basicas de el idioma ingles
 
 ### Descripción del juego/aplicación
 La descripción del juego/aplicación es ...

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Verb
+comment1.params=ID
+comment1.target=Verb(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ leerTxt()
+comment3.params=other
+comment3.target=java.lang.String\ fusion(Word)
+numComments=4
